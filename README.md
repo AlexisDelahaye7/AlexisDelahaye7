@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects will soon be available at [https://alexisdelahaye.fr/](https://alexisdelahaye.fr/)
 
-- 📝 I'm currently working freelance for [neozone.org](https://neozone.org/)
-
 - 📫 Reach me at [alexis.delahaye7@gmail.com](mailto:alexis.delahaye7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
