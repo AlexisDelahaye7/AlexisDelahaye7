@@ -3,7 +3,7 @@
 <h4 align="center">Looking for a Software Designer & Developer apprenticeship.</h5>
 <br/>
 
-- 🔭 I’m currently working on **my Apotheosis, the final project of my curriculum with O'clock**
+- 🔭 I’m currently working on **my Apotheosis, the final project of my curriculum with O'clock** as a back-end developer
 
 - 🌱 I’m currently learning **React and its ecosystem** to build a Single Page App to track my workout sessions 
 
