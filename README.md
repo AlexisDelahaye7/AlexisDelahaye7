@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexis Delahaye</h1>
 <h3 align="center">A passionate Web Developer from France</h3>
-<h4 align="center">Looking for a Software Designer & Developer apprenticeship.</h5>
+<h4 align="center">Self-taught and certified. You can book my services on my [Malt profile](https://www.malt.fr/profile/alexisdlh1)</h5>
 <br/>
 
 - 🔭 I’m currently working on **my Apotheosis, the final project of my curriculum with O'clock** as a back-end developer
