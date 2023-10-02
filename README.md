@@ -5,9 +5,7 @@
 
 - 💻 You can book my services on my [Malt profile](https://www.malt.fr/profile/alexisdlh1)
 
-- 🔭 I’m currently working on **my Apotheosis, the final project of my curriculum with O'clock** as a back-end developer
-
-- 🌱 I’m currently learning **React and its ecosystem** to build a Single Page App to track my workout sessions 
+- 🌱 I’m currently working with **React Native** to build a Single Page App to track my workout sessions 
 
 - 👨‍💻 All of my projects will soon be available at [https://alexisdelahaye.fr/](https://alexisdelahaye.fr/)
 
