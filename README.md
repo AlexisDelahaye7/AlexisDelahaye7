@@ -5,7 +5,7 @@
 
 - 💻 You can book my services on my [Malt profile](https://www.malt.fr/profile/alexisdlh1)
 
-- 🌱 I’m currently working with **React Native** to build a Single Page App to track my workout sessions 
+- 🌱 I’m currently working for **Bic World**.
 
 - 👨‍💻 All of my projects will soon be available at [https://alexisdelahaye.fr/](https://alexisdelahaye.fr/)
 
